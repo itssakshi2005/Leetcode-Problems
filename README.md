@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0410-split-array-largest-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0410-split-array-largest-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
@@ -73,4 +76,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
