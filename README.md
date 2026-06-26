@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
