@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0162-find-peak-element) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0066-plus-one) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
