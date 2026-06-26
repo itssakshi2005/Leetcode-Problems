@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
