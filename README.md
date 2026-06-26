@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
