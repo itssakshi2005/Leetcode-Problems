@@ -85,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0619-biggest-single-number](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0619-biggest-single-number) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
