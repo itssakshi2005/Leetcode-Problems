@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
