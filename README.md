@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1978-employees-whose-manager-left-the-company) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
