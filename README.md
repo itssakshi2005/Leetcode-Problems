@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Counting
 |  |
