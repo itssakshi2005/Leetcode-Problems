@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0619-biggest-single-number) |
 | [1068-product-sales-analysis-i](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1280-students-and-examinations](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1280-students-and-examinations) |
 | [1757-recyclable-and-low-fat-products](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Bit Manipulation
