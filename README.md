@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0443-string-compression) |
