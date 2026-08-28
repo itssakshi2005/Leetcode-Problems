@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0031-next-permutation) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0344-reverse-string) |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
