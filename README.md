@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0136-single-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Quicksort
 |  |
 | ------- |
@@ -255,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0796-rotate-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
