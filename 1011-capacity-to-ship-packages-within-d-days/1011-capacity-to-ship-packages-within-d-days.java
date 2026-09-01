@@ -1,44 +1,31 @@
 class Solution {
-
-   public int findDays(int[] weights,int cap){
-        int d=1;
-        int load=0;
-        int n=weights.length;
-        for(int i=0;i<n;i++){
-            if(load+weights[i]>cap){
-              d=d+1;
-              load=weights[i];  
+    public int shipWithinDays(int[] weights, int days) {
+        int low=0;
+        int high=0;
+        for(int weight:weights){
+            low=Math.max(low,weight);
+            high+=weight;
+        }
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            int reqDays=1;
+            int currWeight=0;
+            for(int weight:weights){
+                if(currWeight+weight>mid){
+                    reqDays++;
+                    currWeight=weight;
+                }
+                else{
+                    currWeight+=weight;
+                }
+            }
+            if(reqDays<=days){
+             high=mid-1;
             }
             else{
-                load+=weights[i];
+             low=mid+1;
             }
         }
-        return d;
+        return low;
     }
-
-
-    public int shipWithinDays(int[] weights, int days) {
-       int low=Integer.MIN_VALUE;
-       int high=0;
-       for(int i=0;i<weights.length;i++){
-        high=high+weights[i];
-        low=Math.max(low,weights[i]);
-       }
-       while(low<=high){
-        int mid=low+(high-low)/2;
-
-        int numofdays=findDays(weights,mid);
-        if(numofdays<=days){
-            high=mid-1;
-        }
-        else{
-            low=mid+1;
-        }
-       }
-       return low;
-       
-    }
-
-
-    
 }
