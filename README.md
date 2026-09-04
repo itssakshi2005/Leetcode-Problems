@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3903-smallest-stable-index-i](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [3903-smallest-stable-index-i](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Database
 |  |
 | ------- |
