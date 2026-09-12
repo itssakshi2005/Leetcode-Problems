@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3903-smallest-stable-index-i](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itssakshi2005/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
